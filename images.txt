@@ -6,3 +6,6 @@ halohub/halo:2.19
 tomcat:latest
 kalilinux/kali-rolling
 kylin
+ubuntu
+centos
+docker-osx
